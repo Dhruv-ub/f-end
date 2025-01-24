@@ -2,7 +2,7 @@
 
 **Installation**
 
-1. Navigate to the `frontend` folder in your terminal.
+1. Navigate to the folder in your terminal.
 2. Install project dependencies using npm:
 
    ```bash
